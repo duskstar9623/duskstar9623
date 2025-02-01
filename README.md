@@ -55,35 +55,36 @@ Here are some ideas to get you started:
 #### 👨‍💻 Languages & Tools & Abilities:
 
 <p align="left">
-    <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img alt="HTML" height="30" src="assets/svg/HTML5.svg"></a></code>
-    <code><a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" height="30" src="assets/svg/CSS3.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="30" src="assets/svg/Javascript.svg"></a></code>
-    <code><a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" height="30" src="assets/svg/Typescript.svg"></a></code>
-    <code><a href="https://sass-lang.com/" target="_blank"><img alt="Sass" height="30" src="assets/svg/Sass.svg"></a></code>
-    <code><a href="https://vuejs.org/" target="_blank"><img alt="Vue" height="30" src="assets/svg/Vue.svg"></a></code>
-    <code><a href="https://nodejs.org/en" target="_blank"><img alt="Node" height="30" src="assets/svg/Node.svg"></a></code>
-    <code><a href="https://expressjs.com/" target="_blank"><img alt="Express" height="30" src="assets/svg/Express.svg"></a></code>    
-    <code><a href="https://mochajs.org/" target="_blank"><img alt="Mocha" height="30" src="assets/svg/Mocha.svg"></a></code>
-    <code><a href="https://babeljs.io/" target="_blank"><img alt="Babel" height="30" src="assets/svg/Babel.svg"></a></code>
-    <code><a href="https://vite.dev/" target="_blank"><img alt="Vite" height="30" src="assets/svg/Vite.svg"></a></code>
-    <code><a href="https://webpack.js.org/" target="_blank"><img alt="Webpack" height="30" src="assets/svg/Webpack.svg"></a></code>
-    <code><a href="https://gulpjs.com/" target="_blank"><img alt="Gulp" height="30" src="assets/svg/Gulp.svg"></a></code>    
-    <code><a href="https://electronjs.org/" target="_blank"><img alt="Electron" height="30" src="assets/svg/Electron.svg"></a></code>
+    <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img alt="HTML" height="35" src="assets/svg/HTML5.svg"></a></code>
+    <code><a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" height="35" src="assets/svg/CSS3.svg"></a></code>
+    <code><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="35" src="assets/svg/Javascript.svg"></a></code>
+    <code><a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" height="35" src="assets/svg/Typescript.svg"></a></code>
+    <code><a href="https://sass-lang.com/" target="_blank"><img alt="Sass" height="35" src="assets/svg/Sass.svg"></a></code>
+    <code><a href="https://vuejs.org/" target="_blank"><img alt="Vue" height="35" src="assets/svg/Vue.svg"></a></code>
+    <code><a href="https://nodejs.org/en" target="_blank"><img alt="Node" height="35" src="assets/svg/Node.svg"></a></code>
+    <code><a href="https://expressjs.com/" target="_blank"><img alt="Express" height="35" src="assets/svg/Express.svg"></a></code>    
+    <code><a href="https://mochajs.org/" target="_blank"><img alt="Mocha" height="35" src="assets/svg/Mocha.svg"></a></code>
+    <code><a href="https://babeljs.io/" target="_blank"><img alt="Babel" height="35" src="assets/svg/Babel.svg"></a></code>
+    <code><a href="https://vite.dev/" target="_blank"><img alt="Vite" height="35" src="assets/svg/Vite.svg"></a></code>
+    <code><a href="https://webpack.js.org/" target="_blank"><img alt="Webpack" height="35" src="assets/svg/Webpack.svg"></a></code>
+    <code><a href="https://gulpjs.com/" target="_blank"><img alt="Gulp" height="35" src="assets/svg/Gulp.svg"></a></code>    
+    <code><a href="https://electronjs.org/" target="_blank"><img alt="Electron" height="35" src="assets/svg/Electron.svg"></a></code>
 </p>
 
 <p align="left">
-    <code><a href="https://www.oracle.com/cn/java/" target="_blank"><img alt="Java" height="30" src="assets/svg/Java.svg"></a></code>
-    <code><a href="https://www.mysql.com/" target="_blank"><img alt="Mysql" height="30" src="assets/svg/Mysql.svg"></a></code>
-    <code><a href="https://www.mongodb.com/zh-cn" target="_blank"><img alt="Mongodb" height="30" src="assets/svg/Mongodb.svg"></a></code>
-    <code><a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" height="30" src="assets/svg/Kubernetes.svg"></a></code>
-    <code><a href="https://www.docker.com/" target="_blank"><img alt="Docker" height="30" src="assets/svg/Docker.svg"></a></code>
-    <code><a href="https://podman.io/" target="_blank"><img alt="Podman" height="30" src="assets/svg/Podman.svg"></a></code>
-    <code><a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" height="30" src="assets/svg/Jenkins.svg"></a></code>
-    <code><a href="https://www.linux.org/" target="_blank"><img alt="Linux" height="30" src="assets/svg/Linux.svg"></a></code>    
-    <code><a href="https://git-scm.com/" target="_blank"><img alt="Git" height="30" src="assets/svg/Git.svg"></a></code>
-    <code><a href="https://github.com/" target="_blank"><img alt="Github" height="30" src="assets/svg/Github.svg"></a></code>
-    <code><a href="https://www.sourcetreeapp.com/" target="_blank"><img alt="Sourcetree" height="30" src="assets/svg/Sourcetree.svg"></a></code>
-    <code><a href="https://www.postman.com/" target="_blank"><img alt="Postman" height="30" src="assets/svg/Postman.svg"></a></code> 
+    <code><a href="https://www.oracle.com/cn/java/" target="_blank"><img alt="Java" height="35" src="assets/svg/Java.svg"></a></code>
+    <code><a href="https://www.mysql.com/" target="_blank"><img alt="Mysql" height="35" src="assets/svg/Mysql.svg"></a></code>
+    <code><a href="https://www.mongodb.com/zh-cn" target="_blank"><img alt="Mongodb" height="35" src="assets/svg/Mongodb.svg"></a></code>
+    <code><a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" height="35" src="assets/svg/Kubernetes.svg"></a></code>
+    <code><a href="https://www.docker.com/" target="_blank"><img alt="Docker" height="35" src="assets/svg/Docker.svg"></a></code>
+    <code><a href="https://podman.io/" target="_blank"><img alt="Podman" height="35" src="assets/svg/Podman.svg"></a></code>
+    <code><a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" height="35" src="assets/svg/Jenkins.svg"></a></code>
+    <code><a href="https://www.linux.org/" target="_blank"><img alt="Linux" height="35" src="assets/svg/Linux.svg"></a></code>    
+    <code><a href="https://git-scm.com/" target="_blank"><img alt="Git" height="35" src="assets/svg/Git.svg"></a></code>
+    <code><a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" height="35" src="assets/svg/npm.svg"></a></code>
+    <code><a href="https://github.com/" target="_blank"><img alt="Github" height="35" src="assets/svg/Github.svg"></a></code>
+    <code><a href="https://www.sourcetreeapp.com/" target="_blank"><img alt="Sourcetree" height="35" src="assets/svg/Sourcetree.svg"></a></code>
+    <code><a href="https://www.postman.com/" target="_blank"><img alt="Postman" height="35" src="assets/svg/Postman.svg"></a></code> 
 </p>
 <!-- Languages and Tools -->
 
