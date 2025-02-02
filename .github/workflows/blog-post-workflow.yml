@@ -1,0 +1,38 @@
+name: Fetch Blog List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:       
+  blog:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Start containers
+        uses: hoverkraft-tech/compose-action@v2.0.1
+        with:
+          up-flags: "-d --build"
+          compose-file: "./.github/docker-compose.yml"
+
+      - name: Install node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install dependencies
+        run: npm install
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "http://localhost:1200/juejin/posts/3963103129121591"
+
+      - name: Stop containers
+        uses: hoverkraft-tech/compose-action@v2.0.1
+        with:
+          down-flags: ""
