@@ -88,10 +88,3 @@ Here are some ideas to get you started:
     <code><a href="https://www.postman.com/" target="_blank"><img alt="Postman" height="30" src="assets/svg/Postman.svg"></a></code> 
 </p>
 <!-- Languages and Tools -->
-
-<!-- Github Stats -->
-#### 📊 Github Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=duskstar9623&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github&hide=contribs"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duskstar9623&layout=compact&theme=vue&hide_border=true"> |
-| ------------- | ------------- |
-<!-- Github Stats -->
